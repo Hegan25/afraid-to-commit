@@ -12,7 +12,6 @@ Pycon Zimbabwe in Harare, 24th November 2016
 ---------------------------------------------
 * Bornwell Matembudze https://github.com/bornie21
 * Kudakwashe Siziva
-* Akim Munthali https://github.com/amunthali @amunthali
 
 .. note:: Many thanks to Charles Katuri (charle-k) for his invaluable assistance on Windows computers
 
@@ -260,7 +259,10 @@ PyCon UK in Coventry, 22nd September 2013
 * Louis Fill tkman220@yahoo.com
 * Karim Lameer https://github.com/klameer
 * John Medley <john.medley@zephirlidar.com>
-
+Dutch Django Association Sprint in Amsterdam, 22nd February 2014
+----------------------------------------------------------------
+* Stomme Poes
+* Akim Munthali https://github.com/amunthali @amunthali
 DjangoCon US in Chicago, 2nd September 2013
 -------------------------------------------
 
@@ -363,3 +365,4 @@ I followed the tutorial online
 * Leticia Ulloa
 * La Chilindrina
 * Anselmo ~ <agprocida@gmail.com> ~ anselmoprocida
+* Gonzo
